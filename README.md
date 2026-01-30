@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parakh Jain</h1>
 <h3 align="center">A passionate full-stack developer + AI Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parakhjain23&label=Profile%20views&color=0e75b6&style=flat" alt="parakhjain23" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [50agents](50agents.com) and [gtwy](gtwy.ai)
